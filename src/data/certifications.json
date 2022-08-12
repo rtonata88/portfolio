@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "HTML/CSS",
+        "image": "/images/certifications/html.png",
+        "link": "https://www.credential.net/0c95580f-419b-47f4-bd5f-7170e6701278"
+    },
+    {
+        "id": 2,
+        "name": "Javascript",
+        "image": "/images/certifications/javascript.png",
+        "link": "https://www.credential.net/2f726c54-fce2-49db-ae2c-15a1c7f6cc9b"
+    },
+    {
+        "id": 3,
+        "name": "React/Redux",
+        "image": "/images/certifications/react.png",
+        "link": "https://www.credential.net/7ead329b-ab48-4b2e-9075-2355dec79c81"
+    },
+    {
+        "id": 4,
+        "name": "Ruby",
+        "image": "/images/certifications/ruby.png",
+        "link": "https://www.credential.net/6ed789a6-75ba-4e22-8261-8d9e526b7bbf"
+    },
+    {
+        "id": 5,
+        "name": "Ruby on Rails",
+        "image": "/images/certifications/ruby-on-rails.png",
+        "link": "https://www.credential.net/144f24ed-1b03-4f5b-b22a-97767af1d168"
+    },
+    {
+        "id": 6,
+        "name": "Full Stack Web Development",
+        "image": "/images/certifications/full-stack-developer.png",
+        "link": "https://www.credential.net/e2254a08-2d5f-4e93-bf44-08c35c9f73b5"
+    }
+]

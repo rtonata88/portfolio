@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Online Payments for Students at University of Namibia",
+        "description": "This platform helps the University of Namibia collect millions of dollars online. It is used by more than 25,000 students to make online payments for their tuition and registration fees.",
+        "image": "/images/projects/online-payment.png",
+        "link": "https://my.unam.edu.na/online-payment",
+        "stack": "Laravel (PHP), MySQL, Javascript"
+    },
+    {
+        "id": 2,
+        "name": "Newspaper Circulation & Distribution System",
+        "description": "A system that manages the entire newspaper distribution process. Key features include; Projections for the following day, Client management, Invoicing, Delivery notes, Routes management, Route grouping, Reports, Subscriptions management.",
+        "image": "/images/projects/circulation-system.png",
+        "link": "https://circulation.nepc.com.na",
+        "stack": "Laravel (PHP), MySQL, Javascript"
+    },
+     {
+        "id": 3,
+        "name": "Student Management System",
+        "description": "A Student Management System for high schools and small tutorial colleges with the following features: Student Management, Enrollment Management, Invoicing, Payments tracker, Credit & Debit notes, Subject management, Extra fees management",
+        "image": "/images/projects/student-management.png",
+        "link": "https://admin.elitetutorialscolleges.com/home",
+        "stack": "Laravel (PHP), MySQL, Javascript"
+    },
+    {
+        "id": 4,
+        "name": "Rent-a-Car",
+        "description": "A simple project that allows users to browse through cars and be able to add them to their favorites.",
+        "image": "/images/projects/rent-a-car.png",
+        "link": "https://github.com/oliverSCZ/car-rental-frontend",
+        "stack": "Ruby on Rails, Postgres, React JS, Redux, Pair Programming, Remote"
+    },
+    {
+        "id": 5,
+        "name": "Covid Tracker Project",
+        "description": "A simple project that tracks the number of corona active cases, recoveries and deaths across all the countries in the world.",
+        "image": "/images/projects/covid-tracker.png",
+        "link": "https://github.com/rtonata88/covid-tracer",
+        "stack": "React JS, Redux"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "instition": "MICROVERSE",
+        "location": "Online",
+        "period": "Oct, 2021 – June 2022",
+        "title": "Remote Full-stack Web Development Program",
+        "mode": "Full Time",
+        "website": "https://www.microverse.org",
+        "description": "Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux. | Developed skills in remote pair-programming using GitHub, industry-standard gitflow, and daily standups to communicate and collaborate with international remote developers."
+    },
+    {
+        "id": 2,
+        "instition": "UNIVERSITY OF SOUTH WALES",
+        "location": "UK, South Wales",
+        "period": "Sept, 2012 – Mar, 2013",
+        "title": "Post Graduate Diploma in Computing",
+        "mode": "Full Time",
+        "website": "https://www.southwales.ac.uk",
+        "description": "Algorithms and Data structures | Computer Systems and Networks | Information Systems Development | Software Engineering | Math for Computing"
+    },
+
+    {
+        "id": 3,
+        "instition": "NAMIBIA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "location": "Windhoek, Namibia",
+        "period": "Feb, 2006 – Nov, 2010",
+        "title": "Bachelor of Information Technology in Business Computing",
+        "mode": "Full Time",
+        "website": "https://www.nust.na",
+        "description": "Introduction to Algorithm Designs | Applied Software Engineering | Databases | Programming (C++, Java) | Web Design (Spring framework, HTML, CSS) | Algorithms and Data structures"
+    }
+]

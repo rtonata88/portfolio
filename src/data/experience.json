@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "company":"UNIVERSITY OF NAMIBIA",
+        "location": "Windhoek, Namibia",
+        "position": "IT Specialist: System Developer",
+        "period": "Nov, 2015 – Sept, 2021",
+        "description": "Lead Developer on all University system developments. | Developed the University’s application and student portal with online payment integration. This helped students do all their financial transactions online. This helped reduce the spread of Covid-19 on Campuses. |Helped the University collect about $300k per year through the application portal that I developed. | Received honorarium payments for always coming up with cost-cutting solutions. The latest included a script I have written to help with data cleaning in preparation for financial audits."
+    },
+    {
+        "id": 2,
+        "company":"MINISTRY OF LAND REFORM - Government Republic of Namibia",
+        "location": "Windhoek, Namibia",
+        "position": "Analyst Programmer",
+        "period": "Dec, 2010 – Oct, 2015",
+        "description": "Developed the Land Tax Assessment system which helped the government collect millions of dollars from farmers.| Developed a Farm Infrastructure and Improvement system, which helped determine the value of each farm in Namibia."
+    }
+
+]
