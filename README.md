@@ -2,16 +2,16 @@
 
 # My portfolio
 
-> I’m a software developer! I can help you build a product, feature or website Look through some of my work and experience. I created this website as a student at Microverse.
+> I’m a software developer! I can help you build a product, feature or website Look through some of my work and experience.
 
 
 ## Built With
 
-- HTML and CSS
+- React JS and Tailwind CSS.
 
 ## Live Demo
 
-[Demo link](https://rtonata88.github.io/my-portfolio/) 
+[Demo link](https://rchambula.me/) 
 
 
 ## Getting Started
@@ -28,7 +28,7 @@ You also need an editor like VS Code or Sublime to edit project files
 2. Navigate to the directory where you would like to run this project from, preferably from your web server directory
 3. Type the following command
 
-> git clone git@github.com:rtonata88/my-portfolio.git
+> git clone git@https://github.com/rtonata88/portfolio
 
 
 ### Usage
@@ -52,8 +52,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgements
--Thank you Microverse for giving us this opportunity to learn coding
--Special thanks to my learning partners and stand up team for constant support and encouragement
--Last but not least, special thanks to the code reviewers who always make we do a great job and have best practises in our projects.
